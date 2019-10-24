@@ -1,0 +1,40 @@
+.banner{
+  position: absolute;
+}
+
+#video{
+  position: relative;
+  bottom: 50px;
+  right: 160px;
+  filter: brightness(70%);
+}
+
+.container{
+  width: 1000px;
+  font-size: 40px;
+  margin: 0 auto;
+  position: relative;
+  bottom: 700px;
+  color: white;
+  -webkit-animation: fadein 4s; 
+}
+
+.howitworks{
+  height: 100vh;
+  width: 100vw;
+}
+
+#blue-btn{
+  position: absolute;
+  right: 600px;
+  background-color: #2672C5;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 20px;
+  transition: 0.4s;
+}
+
+#blue-btn:hover{
+  background-color: rgb(82, 166, 255);
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}

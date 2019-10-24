@@ -1,0 +1,12 @@
+#howitworks{
+  position: relative;
+  z-index: 1;
+  height: 100vh;
+  top: 850px;
+}
+
+.cardscontainer{
+  position: relative;
+  top: 200px;
+  text-align: center;
+}
